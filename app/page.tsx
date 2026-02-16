@@ -135,8 +135,7 @@ export default async function HomePage() {
             Ready to Get Organized?
           </h2>
           <p className="text-lg text-muted-foreground">
-            Join thousands of users who have simplified their digital life with LinkList.
-            Start managing your links better today.
+            Start managing your links better today and simplify your digital life with LinkList.
           </p>
           <SignUpButton mode="modal">
             <Button size="lg" className="text-base">
